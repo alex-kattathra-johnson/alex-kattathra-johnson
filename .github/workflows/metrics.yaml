@@ -19,4 +19,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           plugin_languages: yes
+          plugin_leetcode: yes
+          plugin_leetcode_user: alex-kattathra-johnson
+          plugin_leetcode_sections: solved, skills, recent
           config_timezone: America/Chicago
