@@ -361,7 +361,7 @@
                         </svg>
                         <div class="infos">
                             <div class="title">Making A Large Island</div>
-                            <div class="date">1 Feb 2025</div>
+                            <div class="date">31 Jan 2025</div>
                         </div>
                     </div>
                     <div class="field">
@@ -377,7 +377,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Mar 2025, 01:34:28 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Mar 2025, 02:24:54 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
